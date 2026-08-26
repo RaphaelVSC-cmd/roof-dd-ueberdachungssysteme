@@ -1,0 +1,18 @@
+feat(website): Roof D&D Überdachungssysteme GmbH - Modern UI Pro v3.2
+
+Design: Ethereal Glass & Architectural Precision + Variante C + Sticky Card-Stacking & Dual Marquee
+Stack: HTML5, Tailwind, GSAP, Lenis, SplitType
+- Unified Palomar-Pattern Header mit einklappbarer Info-Zeile (kein Doppelheader)
+- Kinetic Typography + Staggered Load Animations
+- Sticky Card-Stacking System (§ 15) für Terrassendächer, Lamellendächer, Wintergärten & Markisen
+- Scroll-Driven Dual-Direction Marquee (§ 16) mit Detailaufnahmen
+- Interaktiver m² Terrassendach- & Wintergartenrechner (§ 6)
+- 3-Step Multi-Step Funnel Kontaktformular mit Formspree (§ 5)
+- Legal Modal System für Impressum & Datenschutz (DSGVO Art. 13 & § 5 TMG)
+- DSGVO Consent Banner mit Google Maps data-src Sperre
+- WhatsApp Floating Widget (wa.me/498214544735) mit Pulse Animation
+- Dark/Light Mode Toggle mit localStorage Persistenz
+- Touchpad-safe (passive listeners, smoothTouch:false, kein css scroll-behavior)
+- SplitType safe color contrast (kein unsichtbarer Text)
+- Hamburger: Single X-Morphing Mechanismus
+- 0 halluzinierte Daten (Recherche HRB 37558, Yunus Deveci, Gubener Str. 4, 86156 Augsburg)
